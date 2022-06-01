@@ -19,7 +19,6 @@ aceleasi preferinte cu utilizatorul cu care este comparat
 
 
 
-###################
 Collaborative Filtering:
 -based on factorization of matrices
 -basic idea: A user would like movies appreciated by other users with tastes similar to his
